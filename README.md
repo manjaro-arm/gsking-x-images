@@ -1,4 +1,4 @@
-# Manjaro ARM Khadas GTKing Pro
+# Manjaro ARM Khadas GSKing X
 [![iso_build](https://github.com/manjaro-arm/gsking-x-images/workflows/image_build_all/badge.svg)](https://github.com/manjaro-arm/gsking-x-images/actions)
 
 ## description
